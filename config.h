@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 /* static char *font = "DinaRemasterII:pixelsize=32:antialias=true:autohint=true"; */
-static char *font = "Overpass Mono:pixelsize=28:antialias=false:autohint=true";
+static char *font = "Overpass Mono:pixelsize=28:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
