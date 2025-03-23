@@ -7,7 +7,8 @@
  */
 /* static char *font = "DinaRemasterII:pixelsize=32:antialias=true:autohint=true"; */
 /* static char *font = "Overpass Mono:pixelsize=28:antialias=true:autohint=true"; */
-static char *font = "Berkeley Mono:pixelsize=24:antialias=true:autohint=true";
+static char *font = "Berkeley Mono Condensed:pixelsize=24:antialias=true:autohint=true";
+// static char *font = "IBM 3270:pixelsize=28:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
